@@ -1,0 +1,6 @@
+1.Remove a file from a Git repository without deleting it from the local filesystem
+http://stackoverflow.com/questions/1143796/remove-a-file-from-a-git-repository-without-deleting-it-from-the-local-filesyste
+
+2.Git still shows files as modified after adding to .gitignore
+http://stackoverflow.com/questions/9750606/git-still-shows-files-as-modified-after-adding-to-gitignore
+
